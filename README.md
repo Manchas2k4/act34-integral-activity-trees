@@ -34,11 +34,11 @@ La primera línea de entrada contiene,  *N*, el número de listas. En la siguien
 Despliega el menor número de operaciones posibles.
 
 ## <span style="color: rgb(26, 99, 169);">**Ejemplo de entrada**</span>
-5 <br>
-20 5 8 7 4
+6 <br>
+20 5 8 20 7 4
 
 ## <span style="color: rgb(26, 99, 169);">**Ejemplo de salida**</span>
-83
+147
 
 Para probar tu implementación, compila tu programa con el comando:
 ```
